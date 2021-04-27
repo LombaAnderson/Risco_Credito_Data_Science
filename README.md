@@ -1,6 +1,6 @@
 # Risco_Credito_Data_Science
 
-Pré-processamento
+Pré-processamento da base de dados risco de crédito
 
 Tudo o que é preciso fazer antes de fazer classificação ou análise maior de quaisquer conjunto de dados.
 
