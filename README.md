@@ -1,5 +1,5 @@
 # Risco_Credito_Data_Science
-[![NPM](https://img.shields.io/npm/l/react)https://github.com/LombaAnderson/Risco_Credito_Data_Science/blob/main/LICENSE
+[![NPM](https://img.shields.io/npm/l/react)]https://github.com/LombaAnderson/Risco_Credito_Data_Science/blob/main/LICENSE
 
 Pré-processamento da base de dados risco de crédito
 
